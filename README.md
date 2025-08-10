@@ -11,11 +11,9 @@ Perfect for designers, artists, or anyone who loves exploring colors easily on t
 - Smooth navigation and fast performance.
 
 ## 📸 Screenshots
-## 📸 Screenshots
-
 | Color List | Full Screen Preview |
 |------------|--------------------|
-| <img src="Screenshots/list-view.png" width="300" alt="Color List View"> | <img src="Screenshots/full-screen.png" width="300" alt="Full Screen Color Preview"> |
+| ![List View](Screenshots/list-view.png) | ![Full Screen](Screenshots/full-screen.png) 
 
 
 
