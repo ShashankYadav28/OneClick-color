@@ -10,4 +10,10 @@ Perfect for designers, artists, or anyone who loves exploring colors easily on t
 - Minimal and lightweight design.
 - Smooth navigation and fast performance.
 
+## 📸 Screenshots
+| Color List | Full Screen Preview |
+|------------|--------------------|
+| ![List View](Screenshots/list-view.png) | ![Full Screen](Screenshots/full-screen.png) |
+
+
 
